@@ -1,4 +1,4 @@
-﻿Public Class Sample
-    Public test1 As Integer
+﻿Public Class RefTypeTest
+    Public intvalue As Integer
 
 End Class
