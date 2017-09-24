@@ -3,13 +3,6 @@
 Module Module1
 
     Sub Main()
-
-        Dim flag As Boolean = False
-
-        If flag = False Then
-            Console.WriteLine("Hello World!!")
-        End If
-
         Dim sample As New Sample
 
         sample.test1 = 999
