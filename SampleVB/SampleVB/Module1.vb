@@ -42,7 +42,7 @@ Module Module1
     End Sub
 
     Sub refineTest2(ByRef sample As RefTypeTest)
-        sample.intvalue = 4
+        sample.intvalue = 5
     End Sub
 
 End Module
